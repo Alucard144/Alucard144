@@ -25,8 +25,8 @@ I am a passionate software developer specializing in backend architecture, full-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Romulo-Rangel&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romulo-Rangel&layout=compact&theme=tokyonight&custom_title=Technologies" alt="Top Languages" width="48%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Romulo-Rangel&theme=tokyonight" alt="GitHub Stats" width="48%">
+  <img src="https://streak-stats.demolab.com?user=Romulo-Rangel&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%">
 </p>
 
 ---
